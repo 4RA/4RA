@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>cu,,,,, </b>  🚀<br/>
+  👋&nbsp; Hi there! I'm 4RA  </b>  🚀<br/>
   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I enjoy Take a picture, write a blog, and travel ⛰ <br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 

@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://blog.naver.com/4rahihello" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="rrrr4ra@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/rrrr4ra@sookmyung.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>cu,,,,, </b>  🚀<br/>
   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 💪 Skills
 #### Platforms & Languages
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -53,3 +51,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+ -->

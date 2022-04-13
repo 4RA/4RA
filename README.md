@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ### 💪 Skills
 #### Platforms & Languages
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4RA&show_icons=true&theme=radical)
+
 <!-- <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>

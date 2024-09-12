@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p>
   <a href="https://blog.naver.com/4rahihello" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### Platforms & Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4RA&show_icons=true&theme=radical)
-
+-->
 <!-- <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
